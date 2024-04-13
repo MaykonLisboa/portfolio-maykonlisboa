@@ -319,6 +319,8 @@ body {
   transition: transform .3s ease;
 }
 
+
+
 .stacks li div img:hover {
   transform: scale(1.2);
   cursor: pointer;
@@ -334,8 +336,9 @@ body {
   height: 20px;
 
   color: var(--color-white);
-  font-size: 1.25vh;
+  font-size: 2vh;
 }
+
 
 /* sm */
 @media (max-width: 376px) {
