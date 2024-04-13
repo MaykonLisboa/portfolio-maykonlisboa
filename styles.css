@@ -717,7 +717,7 @@ body {
 }
 
 .swiper {
-  height: 500px;
+  height: 450px;
   width: 100%;
   max-width: 1020px;
 
@@ -725,8 +725,6 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: row;
-
-  height: 500px;
 
   margin-top: 2rem;
   padding: 0px 20px;
