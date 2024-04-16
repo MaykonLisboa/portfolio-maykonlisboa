@@ -1082,16 +1082,3 @@ body {
   }
   
 }
-
-@keyframes written_text_name_shadow {
-
-  50% {
-    width: 100;
-    right: 0;
-  }
-
-  100% {
-    width: 0;
-    right: 100%;
-  }
-}
