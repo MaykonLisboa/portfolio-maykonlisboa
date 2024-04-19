@@ -457,8 +457,8 @@ body {
 }
 
 .links a img {
-  width: calc(2vw + 0.8rem);
-  height: calc(2vw + 0.8rem);
+  width: 4rem;
+  height: 4rem;
 
   margin: calc(0.8vw + 0.8rem);
   filter: brightness(.8);
@@ -466,7 +466,7 @@ body {
 }
 
 .links a img:hover {
-  transform: scale(1.15);
+  transform: scale(1.2);
   filter: brightness(1);
 }
 
